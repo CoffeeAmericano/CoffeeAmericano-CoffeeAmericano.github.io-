@@ -1,2 +1,2 @@
-# CoffeeAmericano-CoffeeAmericano.github.io-
+# CoffeeAmericano.github.io
 My Git Blog
